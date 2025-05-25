@@ -1,1 +1,3 @@
 # Verimlilik-Tahminleme-Projesi
+Veri seti olarak Kaggle platformunda bulunan datasetler incelemesi sonucunda Factory Workers’ Daily Performance & Attrition datasetini seçtim ve verimlilik tahminleme üzerine çalıştım. Sunmuş olduğunuz pdf dosyasındaki adımları takip ederek seçmiş olduğum veri setini Linear Regression ile modelledim. Basic anlamda sahip olduğum bilgileri hem paylaşmış olduğunuz notebooklar hem gerçekleşen eğitimler hem de yapay zekanın desteğiyle uygulamak benim yazılım ve yapay zeka çalışma sürecim açısından çok faydalı oldu.
+Kaggle Linki : [https://www.kaggle.com/code/melikel/ver-ml-l-k-tahm-nleme-projes](https://www.kaggle.com/code/melikel/ver-ml-l-k-tahm-nleme-projes)
